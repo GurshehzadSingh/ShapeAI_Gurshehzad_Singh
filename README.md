@@ -1,8 +1,6 @@
 # SHAPEAI WEB DEV WITH NODEJS BOOTCAMP
 
-Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
-
-</b>.
+Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI</b>.
 
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
 
@@ -32,23 +30,11 @@ www.shapeai.tech
 
 or follow SHAPEAI on:
 
-<li><a href=
+<li><a href="https://in.linkedin.com/company/shapeai">LinkedIn</a>
 
-"https://in.linkedin.com/company/shapeai">LinkedIn</a>
+<li><a href="https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
 
-<li><a href=
+<li><a href= "https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTube</a>
 
-"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
-
-<li><a
-
-href=
-
-"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
-
-be</a>
-
-<li><a href=
-
-"https://github.com/shapeai">GitHub</a>
+<li><a href="https://github.com/shapeai">GitHub</a>
 
